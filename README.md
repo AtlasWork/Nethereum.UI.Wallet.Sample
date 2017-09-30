@@ -2,7 +2,7 @@
 
 This is a cross platform Atlas browser and wallet using Nethereum, Xamarin.Forms and MvvmCross, this targets all main mobile platforms Android, iOS, Windows, Dektop (windows 10 uwp), IoT with the Raspberry PI and Xbox. 
 
-## Screenshots from Morden
+## Screenshots
 
 <img src="screenshots/wp10Accounts.png" width="200" alt="Nethereum UWP Windows 10 Phone Ethereum example">
 <img src="screenshots/AndroidBalance.png" width="200" alt="Nethereum Android Phone Ethereum example">
